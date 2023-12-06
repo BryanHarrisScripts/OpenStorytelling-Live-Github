@@ -1,4 +1,6 @@
-# Storyboard Images:
+# OpenStorytelling Plus
+
+### Storyboard Images:
 
 <div style="text-align: center;">
     <a href="" target="_blank"><img src="/LiveStory1/Images/ag0.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
@@ -23,6 +25,8 @@
 </div>
 
 ---
+
+# OpenStorytelling Architect
 
 Designing your dream home on Mars with these specific features is an exciting challenge! 
 Let's explore how we can integrate your ideas into a coherent and imaginative design, reflecting the unique Martian environment and your personal preferences. 
@@ -68,6 +72,8 @@ The sketch reflects a blend of practicality and imaginative futurism, suitable f
 
 ---
 
+# OpenStorytelling Plus
+
 ### Short Story: "Martian Dreams and Martian Realities"
 
 #### Chapter 1: A Dream Takes Shape
@@ -93,6 +99,8 @@ Bryan's Martian habitat evolved from a mere dwelling to a living, adapting entit
 His home on Mars was not just a fusion of technology and comfort but a testament to the human spirit's ability to dream, adapt, and thrive, even in the most alien of environments. This story, crafted with the principles of OpenStorytelling Plus, highlighted the journey of a dream adapting to reality, mirroring the adaptability of humanity itself.
 
 ---
+
+# OpenStorytelling Visualizer
 
 **Shot List and Storyboard Summaries**
 
@@ -132,8 +140,146 @@ Let's start with Scene 1 from Chapter 1. This image will depict Bryan overlookin
 Here is the image for Scene 1 from Chapter 1 of your story, "Martian Dreams and Martian Realities." This visual represents Bryan overlooking the Martian horizon, with the vast Martian landscape and swirling red dust around him. 
 The atmosphere captures a sense of awe and contemplation, fitting the narrative of the story.
 
+<a href="" target="_blank"><img src="/LiveStory1/Images/ag1.png" alt="Scene 1" width="600" style="display: inline-block;"/></a>
+
 - **Image Details:**
   - **Scene**: 1
   - **Shot Type**: Wide Shot
   - **Narrative Focus**: Bryan overlooking the Martian horizon
   - **GEN ID**: P0j4Jd8tyNNbxYiT
+ 
+  - Great! Moving on to Scene 2 from Chapter 1. This image will depict Bryan's 600 sq. ft. dome-shaped Martian habitat, showcasing its modern architecture against the Martian backdrop. The focus will be on highlighting the unique design and resilience of the habitat in the Martian environment. I'll proceed with creating this image and provide a GEN ID for future reference.
+
+Here is the image for Scene 2 from Chapter 1 of "Martian Dreams and Martian Realities." This visual showcases Bryan's 600 sq. ft. dome-shaped Martian habitat, set against the Martian landscape. The design highlights the modern architecture and resilience essential for Martian conditions.
+
+<a href="" target="_blank"><img src="/LiveStory1/Images/ag2.png" alt="Scene 1" width="600" style="display: inline-block;"/></a>
+
+- **Image Details:**
+  - **Scene**: 2
+  - **Shot Type**: Establishing Shot
+  - **Narrative Focus**: Bryan's Martian Habitat
+  - **GEN ID**: 0IO8ZFvj3jOT5nPC
+
+Here is the image for Scene 3 from Chapter 1 of "Martian Dreams and Martian Realities." It depicts the interior of Bryan's habitat, focusing on the modern and spacious kitchen equipped with advanced hydroponic gardens. This image captures the essence of self-sufficiency and technological innovation within the Martian environment.
+
+<a href="" target="_blank"><img src="/LiveStory1/Images/ag3.png" alt="Scene 1" width="600" style="display: inline-block;"/></a>
+
+- **Image Details:**
+  - **Scene**: 3
+  - **Shot Type**: Medium Shot
+  - **Narrative Focus**: Interior Kitchen with Hydroponic Gardens
+  - **GEN ID**: sZMeyUD88UFyXtSP
+
+Here's the image for Scene 4 from Chapter 1 of "Martian Dreams and Martian Realities." This visual provides a close-up view of Bryan's high-tech workspace and studio within his Martian habitat. It highlights the advanced gadgets, ergonomic furniture, and modular walls, creating a space that supports both creativity and productivity on Mars.
+
+<a href="" target="_blank"><img src="/LiveStory1/Images/ag4.png" alt="Scene 1" width="600" style="display: inline-block;"/></a>
+
+- **Image Details:**
+  - **Scene**: 4
+  - **Shot Type**: Close-Up
+  - **Narrative Focus**: High-Tech Workspace and Studio
+  - **GEN ID**: YhKn33QdhVw26sww
+
+Here is the image for Scene 5 from Chapter 1 of "Martian Dreams and Martian Realities." This visual presents a panoramic view of the leisure area inside Bryan's Martian habitat, complete with a pool and hot tub. The design brings a piece of Earth's comfort to Mars, showcasing luxury and relaxation in an alien environment.
+
+<a href="" target="_blank"><img src="/LiveStory1/Images/ag5.png" alt="Scene 1" width="600" style="display: inline-block;"/></a>
+
+- **Image Details:**
+  - **Scene**: 5
+  - **Shot Type**: Panoramic Shot
+  - **Narrative Focus**: Leisure Area with Pool and Hot Tub
+  - **GEN ID**: 5lryP6MeFjQobtRo
+
+Here is the image for Scene 6 from Chapter 2 of "Martian Dreams and Martian Realities." This visual captures a medium shot of Bryan in his space suit as he approaches the hot tub inside his Martian habitat. The scene emphasizes the contrast and humor in the situation, reflecting the unique challenges of daily life on Mars.
+
+<a href="" target="_blank"><img src="/LiveStory1/Images/ag6.png" alt="Scene 1" width="600" style="display: inline-block;"/></a>
+
+- **Image Details:**
+  - **Scene**: 6
+  - **Shot Type**: Medium Shot
+  - **Narrative Focus**: Astronaut Approaching Hot Tub in Space Suit
+  - **GEN ID**: iyB7UhYiXuPO7PWw
+
+Here is the image for Scene 7 from Chapter 2 of "Martian Dreams and Martian Realities." This visual provides a close-up of Bryan's face inside his helmet, capturing his moment of realization and humor about the impracticality of the hot tub on Mars. The expression reflects a mix of surprise and amusement, highlighting his reaction to the situation.
+
+<a href="" target="_blank"><img src="/LiveStory1/Images/ag7.png" alt="Scene 1" width="600" style="display: inline-block;"/></a>
+
+- **Image Details:**
+  - **Scene**: 7
+  - **Shot Type**: Close-Up
+  - **Narrative Focus**: Astronaut's Realization and Humor
+  - **GEN ID**: Bpni6iOwcKTviF7i
+
+Here is the image for Scene 8 from Chapter 2 of "Martian Dreams and Martian Realities." The visual provides a cutaway shot of the advanced water recycling systems inside Bryan's Martian habitat. The background showcases the barren Martian landscape, highlighting the contrast between the high-tech interior and the harsh environment outside.
+
+<a href="" target="_blank"><img src="/LiveStory1/Images/ag8.png" alt="Scene 1" width="600" style="display: inline-block;"/></a>
+
+- **Image Details:**
+  - **Scene**: 8
+  - **Shot Type**: Cutaway Shot
+  - **Narrative Focus**: Advanced Water Recycling Systems and Martian Landscape
+  - **GEN ID**: oMLrNopYyAOaBpHd
+
+Here is the image for Scene 9 from Chapter 3 of "Martian Dreams and Martian Realities." This visual captures an over-the-shoulder shot of Bryan interacting with the AI system "Pika 1.0" inside his Martian habitat. The scene highlights the collaborative process between human and AI, as they work together on habitat modifications using a holographic interface.
+
+<a href="" target="_blank"><img src="/LiveStory1/Images/ag9.png" alt="Scene 1" width="600" style="display: inline-block;"/></a>
+
+- **Image Details:**
+  - **Scene**: 9
+  - **Shot Type**: Over-the-Shoulder Shot
+  - **Narrative Focus**: Collaboration with AI System
+  - **GEN ID**: Lh1zUIb4qZRp3ezS
+
+Here is the image for Scene 10 from Chapter 3 of "Martian Dreams and Martian Realities." This visual provides a time-lapse style depiction of the transformation of the pool area into a hydroponic greenhouse. It captures the conversion of the leisure space into a functional and sustainable environment, highlighting the repurposing of space for efficiency and resourcefulness on Mars.
+
+<a href="" target="_blank"><img src="/LiveStory1/Images/ag10.png" alt="Scene 1" width="600" style="display: inline-block;"/></a>
+
+- **Image Details:**
+  - **Scene**: 10
+  - **Shot Type**: Time-Lapse
+  - **Narrative Focus**: Transformation of Pool Area to Hydroponic Greenhouse
+  - **GEN ID**: CUIpiQHOmcXrnnFC
+
+Here is the image for Scene 11 from Chapter 3 of "Martian Dreams and Martian Realities." This visual presents a wide shot of the newly created observatory in Bryan's Martian habitat, where the hot tub was once located. The scene features a large telescope and panoramic windows, offering a view of the Martian landscape, and reflects the habitat's adaptation for exploration and curiosity.
+
+<a href="" target="_blank"><img src="/LiveStory1/Images/ag11.png" alt="Scene 1" width="600" style="display: inline-block;"/></a>
+
+- **Image Details:**
+  - **Scene**: 11
+  - **Shot Type**: Wide Shot
+  - **Narrative Focus**: Observatory in Martian Habitat
+  - **GEN ID**: ZIUewDiCEHanSacE
+
+Here is the image for Scene 12 from Chapter 3 of "Martian Dreams and Martian Realities." This visual provides a medium shot of the advanced safety features within Bryan's Martian habitat. It showcases the technological enhancements, including reinforced structures and emergency life support systems, emphasizing the habitat's resilience and preparedness for Martian conditions.
+
+<a href="" target="_blank"><img src="/LiveStory1/Images/ag12.png" alt="Scene 1" width="600" style="display: inline-block;"/></a>
+
+- **Image Details:**
+  - **Scene**: 12
+  - **Shot Type**: Medium Shot
+  - **Narrative Focus**: Advanced Safety Features of the Habitat
+  - **GEN ID**: 4t8oJg2pDWV145Jd
+
+Here is the image for Scene 13, the Epilogue of "Martian Dreams and Martian Realities." This aerial shot captures the Martian habitat, emphasizing its integration with the Martian environment. The habitat is portrayed as a sophisticated, adaptive system, symbolizing human resilience and adaptability in an alien world.
+
+<a href="" target="_blank"><img src="/LiveStory1/Images/ag13.png" alt="Scene 1" width="600" style="display: inline-block;"/></a>
+
+- **Image Details:**
+  - **Scene**: 13
+  - **Shot Type**: Aerial Shot
+  - **Narrative Focus**: Habitat's Integration with Martian Environment
+  - **GEN ID**: 0AlkbyE2TFSdbtWB
+
+Here is the final image for Scene 14, the Epilogue of "Martian Dreams and Martian Realities." This close-up shows Bryan looking out at the Martian landscape, reflecting on his journey. The image captures his emotion and contemplation, symbolizing his adaptation to and resilience on Mars.
+
+<a href="" target="_blank"><img src="/LiveStory1/Images/ag14.png" alt="Scene 1" width="600" style="display: inline-block;"/></a>
+
+- **Image Details:**
+  - **Scene**: 14
+  - **Shot Type**: Close-Up
+  - **Narrative Focus**: Astronaut's Reflection and Connection to Mars
+  - **GEN ID**: RIiUOzpumj7MVC2f
+
+With this, we have completed the visual representation of each key scene in your narrative.
+
+---
