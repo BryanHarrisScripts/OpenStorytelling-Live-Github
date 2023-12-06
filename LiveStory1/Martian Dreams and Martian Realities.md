@@ -282,7 +282,15 @@ Here is the final image for Scene 14, the Epilogue of "Martian Dreams and Martia
 
 With this, we have completed the visual representation of each key scene in your narrative.
 
-# The End: Martian Dreams and Martian Realities
+# The End 
+
+### Martian Dreams and Martian Realities
+
+<h4>OpenAI GPTs:</h4>
+
+- [Step 1 — OpenStorytelling Architect↗️](https://chat.openai.com/g/g-6j0ljNlup-openstorytelling-architect)
+- [Step 2 — OpenStorytelling Plus↗️](https://chat.openai.com/g/g-LppT0lwkB-openstorytelling-plus)
+- [Step 3 — OpenStorytelling visualizer↗️](https://chat.openai.com/g/g-11aRa0n1p-openstorytelling-visualizer)
 
 Content created with OpenStorytelling Plus, an AI-powered OpenAI ChatGPT platform combining advanced screenplay tools and AI technology. 
 
