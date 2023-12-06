@@ -60,7 +60,6 @@ Given the location on Mars, the theme naturally leans towards a futuristic and s
 
 By following this design approach, your dream home on Mars will be a fusion of functionality, comfort, and advanced technology, perfectly suited for the Martian landscape and your personal needs. 
 This vision aligns seamlessly with the principles of OpenStorytelling Plus, where architecture becomes an integral part of a broader narrative, reflecting not just a place to live, but a story to tell. 
-Content created with OpenStorytelling Plus, an AI-powered OpenAI ChatGPT platform combining advanced screenplay tools and AI technology. 
 
 ---
 
@@ -136,7 +135,6 @@ His home on Mars was not just a fusion of technology and comfort but a testament
 
 ---
 
-Let's start with Scene 1 from Chapter 1. This image will depict Bryan overlooking the Martian horizon with swirling red dust, captured in a wide shot. I'll proceed with creating this image and provide a GEN ID for future reference. 
 Here is the image for Scene 1 from Chapter 1 of your story, "Martian Dreams and Martian Realities." This visual represents Bryan overlooking the Martian horizon, with the vast Martian landscape and swirling red dust around him. 
 The atmosphere captures a sense of awe and contemplation, fitting the narrative of the story.
 
@@ -147,8 +145,6 @@ The atmosphere captures a sense of awe and contemplation, fitting the narrative 
   - **Shot Type**: Wide Shot
   - **Narrative Focus**: Bryan overlooking the Martian horizon
   - **GEN ID**: P0j4Jd8tyNNbxYiT
- 
-  - Great! Moving on to Scene 2 from Chapter 1. This image will depict Bryan's 600 sq. ft. dome-shaped Martian habitat, showcasing its modern architecture against the Martian backdrop. The focus will be on highlighting the unique design and resilience of the habitat in the Martian environment. I'll proceed with creating this image and provide a GEN ID for future reference.
 
 Here is the image for Scene 2 from Chapter 1 of "Martian Dreams and Martian Realities." This visual showcases Bryan's 600 sq. ft. dome-shaped Martian habitat, set against the Martian landscape. The design highlights the modern architecture and resilience essential for Martian conditions.
 
@@ -283,3 +279,9 @@ Here is the final image for Scene 14, the Epilogue of "Martian Dreams and Martia
 With this, we have completed the visual representation of each key scene in your narrative.
 
 ---
+
+Content created with OpenStorytelling Plus, an AI-powered OpenAI ChatGPT platform combining advanced screenplay tools and AI technology. 
+
+---
+
+
