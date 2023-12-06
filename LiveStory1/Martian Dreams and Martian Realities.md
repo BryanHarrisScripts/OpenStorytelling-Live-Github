@@ -1,4 +1,4 @@
-# OpenStorytelling Plus
+# OpenStorytelling Plus: Martian Dreams and Martian Realities
 
 ### Storyboard Images:
 
@@ -62,6 +62,8 @@ By following this design approach, your dream home on Mars will be a fusion of f
 This vision aligns seamlessly with the principles of OpenStorytelling Plus, where architecture becomes an integral part of a broader narrative, reflecting not just a place to live, but a story to tell. 
 
 ---
+
+### Your Dream Home on Mars
 
 <a href="" target="_blank"><img src="/LiveStory1/Images/ag0.png" alt="Scene 1" width="1200" style="display: inline-block;"/></a>
 
@@ -134,6 +136,8 @@ His home on Mars was not just a fusion of technology and comfort but a testament
 | Bryan looking out to Mars, reflecting on his journey | Close-Up | Capture the emotion and contemplation of the protagonist | 14 |
 
 ---
+
+**Shot List Keyframe Images**
 
 Here is the image for Scene 1 from Chapter 1 of your story, "Martian Dreams and Martian Realities." This visual represents Bryan overlooking the Martian horizon, with the vast Martian landscape and swirling red dust around him. 
 The atmosphere captures a sense of awe and contemplation, fitting the narrative of the story.
@@ -278,7 +282,7 @@ Here is the final image for Scene 14, the Epilogue of "Martian Dreams and Martia
 
 With this, we have completed the visual representation of each key scene in your narrative.
 
----
+# The End: Martian Dreams and Martian Realities
 
 Content created with OpenStorytelling Plus, an AI-powered OpenAI ChatGPT platform combining advanced screenplay tools and AI technology. 
 
