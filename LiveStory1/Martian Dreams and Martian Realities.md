@@ -1,3 +1,27 @@
+# Storyboard Images:
+
+<div style="text-align: center;">
+    <a href="" target="_blank"><img src="/LiveStory1/Images/ag0.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/LiveStory1/Images/ag1.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/LiveStory1/Images/ag2.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/LiveStory1/Images/ag3.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
+</div>
+    <a href="" target="_blank"><img src="/LiveStory1/Images/ag4.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/LiveStory1/Images/ag5.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/LiveStory1/Images/ag6.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/LiveStory1/Images/ag7.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
+</div>
+    <a href="" target="_blank"><img src="/LiveStory1/Images/ag8.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/LiveStory1/Images/ag9.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/LiveStory1/Images/ag10.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/LiveStory1/Images/ag11.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
+</div>
+    <a href="" target="_blank"><img src="/LiveStory1/Images/ag12.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/LiveStory1/Images/ag13.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/LiveStory1/Images/ag14.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/LiveStory1/Images/ag15.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
+</div>
+
 ---
 
 Designing your dream home on Mars with these specific features is an exciting challenge! 
@@ -35,6 +59,8 @@ This vision aligns seamlessly with the principles of OpenStorytelling Plus, wher
 Content created with OpenStorytelling Plus, an AI-powered OpenAI ChatGPT platform combining advanced screenplay tools and AI technology. 
 
 ---
+
+<a href="" target="_blank"><img src="/LiveStory1/Images/ag0.png" alt="Scene 1" width="1200" style="display: inline-block;"/></a>
 
 Here's the conceptual sketch of your dream home on Mars. 
 This design features the elements you described, like a spacious kitchen, large workspace, studio with walls, pool, and hot tub, all integrated into a compact, futuristic Martian home. 
