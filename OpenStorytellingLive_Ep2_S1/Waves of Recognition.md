@@ -21,7 +21,6 @@
     <a href="" target="_blank"><img src="/OpenStorytellingLive_Ep2_S1/Images/ag12.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
     <a href="" target="_blank"><img src="/OpenStorytellingLive_Ep2_S1/Images/ag13.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
     <a href="" target="_blank"><img src="/OpenStorytellingLive_Ep2_S1/Images/ag14.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="/OpenStorytellingLive_Ep2_S1/Images/ag15.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
 </div>
 
 ---
