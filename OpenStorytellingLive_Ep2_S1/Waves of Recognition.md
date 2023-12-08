@@ -158,113 +158,113 @@ The waves continued to call, each one a new story waiting to be written, and Ton
 Here is the image for Scene 1 from Chapter 1 of your story, "Martian Dreams and Martian Realities." This visual represents Bryan overlooking the Martian horizon, with the vast Martian landscape and swirling red dust around him. 
 The atmosphere captures a sense of awe and contemplation, fitting the narrative of the story.
 
- <a href="" target="_blank"><img src="/OpenStorytellingLive_Ep2_S1/Images/ag1.png" alt="Scene 1" width="600" style="display: inline-block;"/></a>
+ <a href="" target="_blank"><img src="/OpenStorytellingLive_Ep2_S1/Images/ag0.png" alt="Scene 1" width="600" style="display: inline-block;"/></a>
 
-- **Image Details:**
-  - **Scene**: 1
-  - **Shot Type**: Wide Shot
-  - **Narrative Focus**: Bryan overlooking the Martian horizon
-  - **GEN ID**: P0j4Jd8tyNNbxYiT
+Here is the visual representation for Scene 1 of "Waves of Recognition":
 
-Here is the image for Scene 2 from Chapter 1 of "Martian Dreams and Martian Realities." This visual showcases Bryan's 600 sq. ft. dome-shaped Martian habitat, set against the Martian landscape. The design highlights the modern architecture and resilience essential for Martian conditions.
+- **Scene 1: View of Tony's Minimalist House from the Beach**
+- **GEN ID**: LB6eXPh1JClJsILp
+
+This image captures the modern, minimalist architecture of Tony's house against the backdrop of the San Diego coastline, embodying the harmony and tranquility of the serene coastal environment.
+
+<a href="" target="_blank"><img src="/OpenStorytellingLive_Ep2_S1/Images/ag1.png" alt="Scene 1" width="600" style="display: inline-block;"/></a>
+
+Here is the visual representation for Scene 2 of "Waves of Recognition":
+
+- **Scene 2: Tony Watching the Sunset from His Wooden Deck**
+- **GEN ID**: YsN0ch8fWizhLPCj
+
+This image depicts Tony in a medium shot, leaning on the railing of his wooden deck during sunset, reflecting a sense of peace and connection with the beachside environment.
 
 <a href="" target="_blank"><img src="/OpenStorytellingLive_Ep2_S1/Images/ag2.png" alt="Scene 1" width="600" style="display: inline-block;"/></a>
 
-- **Image Details:**
-  - **Scene**: 2
-  - **Shot Type**: Establishing Shot
-  - **Narrative Focus**: Bryan's Martian Habitat
-  - **GEN ID**: 0IO8ZFvj3jOT5nPC
+Here is the visual representation for Scene 3 of "Waves of Recognition":
 
-Here is the image for Scene 3 from Chapter 1 of "Martian Dreams and Martian Realities." It depicts the interior of Bryan's habitat, focusing on the modern and spacious kitchen equipped with advanced hydroponic gardens. This image captures the essence of self-sufficiency and technological innovation within the Martian environment.
+- **Scene 3: Interior of the House, Focusing on the Surfboard Area**
+- **GEN ID**: ye0BTMSI0F0Hd2C9
+
+This image captures a close-up view of the special area in Tony's house dedicated to his surfboards, emphasizing the care and attention given to each surfboard and the surf culture aesthetic of the room.
 
 <a href="" target="_blank"><img src="/OpenStorytellingLive_Ep2_S1/Images/ag3.png" alt="Scene 1" width="600" style="display: inline-block;"/></a>
 
-- **Image Details:**
-  - **Scene**: 3
-  - **Shot Type**: Medium Shot
-  - **Narrative Focus**: Interior Kitchen with Hydroponic Gardens
-  - **GEN ID**: sZMeyUD88UFyXtSP
+Here is the visual representation for Scene 4 of "Waves of Recognition":
 
-Here's the image for Scene 4 from Chapter 1 of "Martian Dreams and Martian Realities." This visual provides a close-up view of Bryan's high-tech workspace and studio within his Martian habitat. It highlights the advanced gadgets, ergonomic furniture, and modular walls, creating a space that supports both creativity and productivity on Mars.
+- **Scene 4: Tony with Friends on the Deck Under the Starry Sky**
+- **GEN ID**: FqHYlIXA4rgQNSy7
+
+This image depicts Tony and his friends enjoying a relaxed gathering on the deck under a starry night sky, conveying the camaraderie and laid-back ambiance of a beachside lifestyle.
 
 <a href="" target="_blank"><img src="/OpenStorytellingLive_Ep2_S1/Images/ag4.png" alt="Scene 1" width="600" style="display: inline-block;"/></a>
 
-- **Image Details:**
-  - **Scene**: 4
-  - **Shot Type**: Close-Up
-  - **Narrative Focus**: High-Tech Workspace and Studio
-  - **GEN ID**: YhKn33QdhVw26sww
+Here is the visual representation for Scene 5 of "Waves of Recognition":
 
-Here is the image for Scene 5 from Chapter 1 of "Martian Dreams and Martian Realities." This visual presents a panoramic view of the leisure area inside Bryan's Martian habitat, complete with a pool and hot tub. The design brings a piece of Earth's comfort to Mars, showcasing luxury and relaxation in an alien environment.
+- **Scene 5: Tony Surfing at Sunrise**
+- **GEN ID**: 2srtLZ7Qv6wda3r1
+
+This image captures Tony skillfully surfing at sunrise, highlighting the beauty of the early morning light and the fluidity of his surfing, emphasizing the harmony between the surfer and the sea.
 
 <a href="" target="_blank"><img src="/OpenStorytellingLive_Ep2_S1/Images/ag5.png" alt="Scene 1" width="600" style="display: inline-block;"/></a>
 
-- **Image Details:**
-  - **Scene**: 5
-  - **Shot Type**: Panoramic Shot
-  - **Narrative Focus**: Leisure Area with Pool and Hot Tub
-  - **GEN ID**: 5lryP6MeFjQobtRo
+Here is the visual representation for Scene 6 of "Waves of Recognition":
 
-Here is the image for Scene 6 from Chapter 2 of "Martian Dreams and Martian Realities." This visual captures a medium shot of Bryan in his space suit as he approaches the hot tub inside his Martian habitat. The scene emphasizes the contrast and humor in the situation, reflecting the unique challenges of daily life on Mars.
+- **Scene 6: Tony Posting on Twitter with the Ocean in the Background**
+- **GEN ID**: BYcJxArmTrjPPZx1
 
-<a href="" target="_blank"><img src="/OpenStorytellingLive_Ep2_S1/Images/ag8.png" alt="Scene 1" width="600" style="display: inline-block;"/></a>
+This image features an over-the-shoulder shot of Tony interacting with his phone, posting on Twitter, with the ocean providing a stunning backdrop. It blends the natural beauty of the beach with the modernity of social media, symbolizing Tony's connection to both the surfing world and the digital realm.
 
-- **Image Details:**
-  - **Scene**: 6
-  - **Shot Type**: Medium Shot
-  - **Narrative Focus**: Astronaut Approaching Hot Tub in Space Suit
-  - **GEN ID**: iyB7UhYiXuPO7PWw
+<a href="" target="_blank"><img src="/OpenStorytellingLive_Ep2_S1/Images/ag6.png" alt="Scene 1" width="600" style="display: inline-block;"/></a>
 
-Here is the image for Scene 7 from Chapter 2 of "Martian Dreams and Martian Realities." This visual provides a close-up of Bryan's face inside his helmet, capturing his moment of realization and humor about the impracticality of the hot tub on Mars. The expression reflects a mix of surprise and amusement, highlighting his reaction to the situation.
+Here is the visual representation for Scene 7 of "Waves of Recognition":
+
+- **Scene 7: Close-Up of Tony’s Phone Showing the AI Algorithm Notification**
+- **GEN ID**: EUM4cix3eRJW3WBe
+
+This image captures a close-up view of Tony's phone displaying the message from the World Club of Surfing, focusing on the pivotal moment of recognition and surprise. The background is blurred to emphasize the phone and the message, symbolizing a significant turning point in Tony's life.
 
 <a href="" target="_blank"><img src="/OpenStorytellingLive_Ep2_S1/Images/ag7.png" alt="Scene 1" width="600" style="display: inline-block;"/></a>
 
-- **Image Details:**
-  - **Scene**: 7
-  - **Shot Type**: Close-Up
-  - **Narrative Focus**: Astronaut's Realization and Humor
-  - **GEN ID**: Bpni6iOwcKTviF7i
+Here is the visual representation for Scene 8 of "Waves of Recognition":
 
-Here is the image for Scene 8 from Chapter 2 of "Martian Dreams and Martian Realities." The visual provides a cutaway shot of the advanced water recycling systems inside Bryan's Martian habitat. The background showcases the barren Martian landscape, highlighting the contrast between the high-tech interior and the harsh environment outside.
+- **Scene 8: Tony Reading the Invitation from the World Club of Surfing**
+- **GEN ID**: 810DJXHBO8LnUqph
+
+This image captures a close-up of Tony reading the invitation, with expressions of excitement and disbelief. It conveys the transformative moment in his life, showing his deep connection with the ocean and the realization of a long-held dream.
 
 <a href="" target="_blank"><img src="/OpenStorytellingLive_Ep2_S1/Images/ag8.png" alt="Scene 1" width="600" style="display: inline-block;"/></a>
 
-- **Image Details:**
-  - **Scene**: 8
-  - **Shot Type**: Cutaway Shot
-  - **Narrative Focus**: Advanced Water Recycling Systems and Martian Landscape
-  - **GEN ID**: oMLrNopYyAOaBpHd
+Here is the visual representation for Scene 9 of "Waves of Recognition":
 
-Here is the image for Scene 9 from Chapter 3 of "Martian Dreams and Martian Realities." This visual captures an over-the-shoulder shot of Bryan interacting with the AI system "Pika 1.0" inside his Martian habitat. The scene highlights the collaborative process between human and AI, as they work together on habitat modifications using a holographic interface.
+- **Scene 9: Tony Responding to the Invitation, Looking Out at the Sea**
+- **GEN ID**: xQzDm7D8KDU9cUnO
+
+This image shows Tony in a medium shot, responding to the invitation and gazing out at the sea. It captures a sense of anticipation and wonder, symbolizing the new opportunities and experiences that await him, with the ocean serving as a backdrop that represents the vast possibilities in his surfing career.
 
 <a href="" target="_blank"><img src="/OpenStorytellingLive_Ep2_S1/Images/ag9.png" alt="Scene 1" width="600" style="display: inline-block;"/></a>
 
-- **Image Details:**
-  - **Scene**: 9
-  - **Shot Type**: Over-the-Shoulder Shot
-  - **Narrative Focus**: Collaboration with AI System
-  - **GEN ID**: Lh1zUIb4qZRp3ezS
+Here is the visual representation for Scene 10 of "Waves of Recognition":
 
-Here is the image for Scene 10 from Chapter 3 of "Martian Dreams and Martian Realities." This visual provides a time-lapse style depiction of the transformation of the pool area into a hydroponic greenhouse. It captures the conversion of the leisure space into a functional and sustainable environment, highlighting the repurposing of space for efficiency and resourcefulness on Mars.
+- **Scene 10: Montage of Tony Surfing in Exotic Locations**
+- **GEN ID**: D0gklKr0oTZsN9Lc
+
+This image presents a montage of Tony surfing in various exotic locations, such as the powerful swells of Hawaii and the crystal-clear waters of the Maldives. Each part of the montage captures a different aspect of his surfing adventures, conveying a sense of excitement, adventure, and the global scale of his experiences.
 
 <a href="" target="_blank"><img src="/OpenStorytellingLive_Ep2_S1/Images/ag10.png" alt="Scene 1" width="600" style="display: inline-block;"/></a>
 
-- **Image Details:**
-  - **Scene**: 10
-  - **Shot Type**: Time-Lapse
-  - **Narrative Focus**: Transformation of Pool Area to Hydroponic Greenhouse
-  - **GEN ID**: CUIpiQHOmcXrnnFC
+Here is the visual representation for Scene 11 of "Waves of Recognition":
 
-Here is the image for Scene 11 from Chapter 3 of "Martian Dreams and Martian Realities." This visual presents a wide shot of the newly created observatory in Bryan's Martian habitat, where the hot tub was once located. The scene features a large telescope and panoramic windows, offering a view of the Martian landscape, and reflects the habitat's adaptation for exploration and curiosity.
+- **Scene 11: Tony's Return to His Beachfront Home**
+- **GEN ID**: GtnWPeKl1o9dgk6U
+
+This image captures a wide shot of Tony returning to his minimalist beachfront home, symbolizing his return to his roots. The house, set against the beach and ocean backdrop, highlights the deep connection he maintains with his original surfing environment. The shot evokes a sense of homecoming and the peaceful, grounding effect of returning to a familiar and cherished place.
 
 <a href="" target="_blank"><img src="/OpenStorytellingLive_Ep2_S1/Images/ag11.png" alt="Scene 1" width="600" style="display: inline-block;"/></a>
 
-- **Image Details:**
-  - **Scene**: 11
-  - **Shot Type**: Wide Shot
-  - **Narrative Focus**: Observatory in Martian Habitat
-  - **GEN ID**: ZIUewDiCEHanSacE
+Here is the visual representation for the Epilogue scene of "Waves of Recognition":
+
+- **Epilogue: Tony on the Deck, Watching the Horizon**
+- **GEN ID**: EF0x347JgcnV7xCe
+
+This image shows Tony standing on his deck, watching as the day turns to night. It captures him in a contemplative pose, reflecting on his journey from a local surfer to a member of the global surfing elite. The ocean and horizon in the background symbolize the endless possibilities and new stories waiting in his ongoing adventure, conveying the transition from one chapter of his life to the anticipation of the next.
 
 # The End 
 
