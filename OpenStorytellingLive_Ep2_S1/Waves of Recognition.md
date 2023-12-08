@@ -112,7 +112,7 @@ The waves continued to call, each one a new story waiting to be written, and Ton
 
 # OpenStorytelling Visualizer
 
-**Shot List and Storyboard Summaries**
+### Shot List and Storyboard Summaries
 
 #### Chapter 1: A Surfer's Haven
 
@@ -153,10 +153,7 @@ The waves continued to call, each one a new story waiting to be written, and Ton
 
 ---
 
-**Shot List Keyframe Images**
-
-Here is the image for Scene 1 from Chapter 1 of your story, "Martian Dreams and Martian Realities." This visual represents Bryan overlooking the Martian horizon, with the vast Martian landscape and swirling red dust around him. 
-The atmosphere captures a sense of awe and contemplation, fitting the narrative of the story.
+### Shot List Keyframe Images
 
  <a href="" target="_blank"><img src="/OpenStorytellingLive_Ep2_S1/Images/ag0.png" alt="Scene 1" width="600" style="display: inline-block;"/></a>
 
