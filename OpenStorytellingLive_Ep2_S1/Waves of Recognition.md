@@ -58,9 +58,9 @@ To visualize this home, imagine a sleek, two-story structure, with floor-to-ceil
 
 ---
 
-### Your Dream Home on Mars
+### Your Dream Home on the Beach
 
-<a href="" target="_blank"><img src="/LiveStory1/Images/ag0.png" alt="Scene 1" width="1200" style="display: inline-block;"/></a>
+<a href="" target="_blank"><img src="/OpenStorytellingLive_Ep2_S1/Images/ag10.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
 
 Here's the conceptual sketch of your dream home on Mars. 
 This design features the elements you described, like a spacious kitchen, large workspace, studio with walls, pool, and hot tub, all integrated into a compact, futuristic Martian home. 
@@ -111,19 +111,12 @@ The waves continued to call, each one a new story waiting to be written, and Ton
 ---
 
 *Content created with OpenStorytelling Plus, an AI-powered OpenAI ChatGPT platform combining advanced screenplay tools and AI technology. Contributions by Bryan Harris and OpenStorytelling Plus methodologies are key. Shared under Creative Commons CC-BY-SA-4.0 license.*
+
 ---
 
 # OpenStorytelling Visualizer
 
 **Shot List and Storyboard Summaries**
-
-Excellent! Let's move on to creating the shot list and storyboard summaries for your script "Waves of Recognition." For each scene, I'll provide a structured format that includes Narrative, Shot Type, Notes, and Scene Number. Additionally, I will generate images corresponding to keyframes for each scene in a 16:9 aspect ratio and provide GEN IDs for future reference.
-
-Please note that since the script is more of a narrative than a traditional screenplay with specific scene instructions, I'll interpret and create the shot list based on the content provided. Let's get started!
-
----
-
-### Shot List and Storyboard Summaries
 
 #### Chapter 1: A Surfer's Haven
 
@@ -161,24 +154,6 @@ Please note that since the script is more of a narrative than a traditional scre
 | Narrative | Shot Type | Notes | Scene Number |
 |-----------|-----------|-------|--------------|
 | Tony on the deck, gazing at the horizon. | Wide Shot | Capture the reflective mood and the vastness of the ocean, symbolizing future possibilities. | 12 |
-
----
-
-### Image Details:
-
-- **Scene:** 1
-- **Shot Type:** Wide Shot
-- **Narrative Focus:** View of Tony's house from the beach
-- **GEN ID:** XlATLyN8WZmfVnrp1
-
-- **Scene:** 2
-- **Shot Type:** Medium Shot
-- **Narrative Focus:** Tony watching the sunset
-- **GEN ID:** XlATLyN8WZmfVnrp2
-
-... and so on for each scene.
-
-Would you like me to proceed with generating the images for these scenes?
 
 ---
 
