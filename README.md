@@ -1,3 +1,5 @@
+<img src="/OBS-Reimagined_19_Banner.png"/>
+
 # OpenStorytelling Live
 
 <div style="text-align: center;">
